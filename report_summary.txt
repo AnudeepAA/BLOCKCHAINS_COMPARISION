@@ -1,0 +1,5 @@
+This document includes a comparison of Ethereum, Hyperledger Fabric, and Quorum platforms based on type, consensus, speed, token/smart contract support, and typical use cases. It also provides recommendations for DApp, supply chain, and banking use cases.
+
+- Use Ethereum for public decentralized applications
+- Use Hyperledger Fabric for secure, high-speed private enterprise solutions
+- Use Quorum for privacy-focused interbank or consortium networks
